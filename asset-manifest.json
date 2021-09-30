@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f07be738.chunk.css",
-    "main.js": "/static/js/main.abce0942.chunk.js",
-    "main.js.map": "/static/js/main.abce0942.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.54c00196.js",
-    "runtime-main.js.map": "/static/js/runtime-main.54c00196.js.map",
-    "static/js/2.dffb0576.chunk.js": "/static/js/2.dffb0576.chunk.js",
-    "static/js/2.dffb0576.chunk.js.map": "/static/js/2.dffb0576.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f07be738.chunk.css.map": "/static/css/main.f07be738.chunk.css.map",
-    "static/js/2.dffb0576.chunk.js.LICENSE.txt": "/static/js/2.dffb0576.chunk.js.LICENSE.txt"
+    "main.css": "/homework-4-bcloutier/static/css/main.f07be738.chunk.css",
+    "main.js": "/homework-4-bcloutier/static/js/main.abce0942.chunk.js",
+    "main.js.map": "/homework-4-bcloutier/static/js/main.abce0942.chunk.js.map",
+    "runtime-main.js": "/homework-4-bcloutier/static/js/runtime-main.98291ad0.js",
+    "runtime-main.js.map": "/homework-4-bcloutier/static/js/runtime-main.98291ad0.js.map",
+    "static/js/2.0d6e12f0.chunk.js": "/homework-4-bcloutier/static/js/2.0d6e12f0.chunk.js",
+    "static/js/2.0d6e12f0.chunk.js.map": "/homework-4-bcloutier/static/js/2.0d6e12f0.chunk.js.map",
+    "index.html": "/homework-4-bcloutier/index.html",
+    "static/css/main.f07be738.chunk.css.map": "/homework-4-bcloutier/static/css/main.f07be738.chunk.css.map",
+    "static/js/2.0d6e12f0.chunk.js.LICENSE.txt": "/homework-4-bcloutier/static/js/2.0d6e12f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54c00196.js",
-    "static/js/2.dffb0576.chunk.js",
+    "static/js/runtime-main.98291ad0.js",
+    "static/js/2.0d6e12f0.chunk.js",
     "static/css/main.f07be738.chunk.css",
     "static/js/main.abce0942.chunk.js"
   ]
